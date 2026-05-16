@@ -1,0 +1,17 @@
+2025-12-13 20:55:56,143 - INFO - Starting multi-file compression...
+2025-12-13 20:55:56,147 - INFO - Read file: C:/Users/hp/Downloads/Cyber Security/Kioptix Level 1/Kioptix Level 1/Kioptix Level 1.nvram (8684 bytes)
+2025-12-13 20:55:59,620 - INFO - Huffman tree saved to archive/multi_file_huffman_tree.png
+2025-12-13 20:55:59,668 - INFO - Compression ratio: 2.71:1
+2025-12-19 23:31:47,546 - INFO - Starting multi-file compression...
+2025-12-19 23:31:47,554 - INFO - Read file: C:/Users/HP/Downloads/me.jpg (74917 bytes)
+2025-12-19 23:31:49,100 - INFO - Huffman tree saved to archive/multi_file_huffman_tree.png
+2025-12-19 23:31:49,143 - INFO - Compression ratio: 1.0:1
+2025-12-20 19:00:29,142 - INFO - Reading file: C:/Users/HP/Downloads/data_to_curve_fit (1).txt
+2025-12-20 19:00:29,495 - INFO - Huffman tree saved to archive/text_huffman_tree.png
+2025-12-20 19:00:29,573 - INFO - Compression ratio: 2.51:1
+2025-12-20 19:01:06,244 - INFO - Reading file: C:/Users/HP/Downloads/data_to_curve_fit (1).txt
+2025-12-20 19:01:06,456 - INFO - Huffman tree saved to archive/text_huffman_tree.png
+2025-12-20 19:01:06,531 - INFO - Compression ratio: 2.51:1
+2025-12-20 19:08:44,192 - INFO - Starting multi-file compression...
+2025-12-20 19:08:45,124 - INFO - Read file: C:/Users/HP/Downloads/Assignment 2 ( omar ahmed ramadan 240102684 ).pdf (11947774 bytes)
+2025-12-20 19:08:47,947 - INFO - Huffman tree saved to archive/multi_file_huffman_tree.png
