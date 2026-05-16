@@ -54,12 +54,6 @@ pip install qdarkstyle
 
 ---
 
-## 📸 Screenshots
-
-![Clozr GUI](image_4582de.png)
-
----
-
 ## 👥 Development Team
 
 This project was developed collaboratively by:
